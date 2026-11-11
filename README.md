@@ -1,5 +1,5 @@
-💫 About Me:
-Hi, I’m Poornima 👋
+About Me:
+Hi, I’m Poornima 
 
 AI Engineer building production AI agents, RAG systems, and privacy-first health tech, and measuring whether they actually work.
 
@@ -33,18 +33,3 @@ LinkedIn [Mastodon](https://mastodon.social/@Poornima Tagaram) email
 
 💻 Tech Stack:
 JavaScript HTML5 Python PHP TypeScript AWS Google Cloud Render Vercel FastAPI Laravel NodeJS React MongoDB MySQL Postgres Supabase SQLite Canva Figma Matplotlib NumPy Pandas PyTorch scikit-learn Scipy TensorFlow Git GitHub GitLab Playwright Notion Grafana Jira Docker Confluence Kubernetes Postman Power Bi
-
-📊 GitHub Stats:
-
-
-
-
-
-
-🏆 GitHub Trophies
-
-
-✍️ Random Dev Quote
-
-
-🔝 Top Contributed Repo
